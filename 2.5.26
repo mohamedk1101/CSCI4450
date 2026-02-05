@@ -1,0 +1,13 @@
+
+<script>
+  var name= "John"
+  var age;
+  const YOUTH=18;
+  
+  if (age>YOUTH)
+
+  console.log("hello kid" + name);
+else
+    console.log("hello junior + name");
+    
+</script>
