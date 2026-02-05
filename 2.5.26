@@ -5,9 +5,21 @@
   const YOUTH=18;
   
   if (age>YOUTH)
+{
 
   console.log("hello kid" + name);
 else
     console.log("hello junior + name");
+  output="hello Junior"+ name
+
+}
+
+    target=document.getElementByID(id1)
+  target.innerhtml=
     
 </script>
+
+</head>
+<body>
+
+  <h1 id="id1> Old Heading</h1>
